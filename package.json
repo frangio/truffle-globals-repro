@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "name": "truffle-globals-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frangio/truffle-globals-repro.git"
+  },
+  "keywords": [],
+  "author": "Francisco Giordano <frangio.1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frangio/truffle-globals-repro/issues"
+  },
+  "homepage": "https://github.com/frangio/truffle-globals-repro#readme",
+  "dependencies": {
+    "truffle": "^5.1.34"
+  }
+}
